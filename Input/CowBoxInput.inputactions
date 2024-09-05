@@ -1,0 +1,89 @@
+{
+    "name": "CowBoxInput",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "443af6d9-b799-48df-b0e0-49ddbef748dc",
+            "actions": [
+                {
+                    "name": "JumpAndMoeuh",
+                    "type": "Button",
+                    "id": "bac916e8-bfbe-4ed9-8a53-d6afa4f4c3f6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8cef28c1-532b-4b9a-bb7c-40462cb11de4",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87af7fe9-877c-47eb-8032-b4d24d97c108",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "de90e448-3b40-4fc4-b4d7-b2264b7fbbc4",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3fb9d486-5dc2-4648-90c5-66a55e07e120",
+                    "path": "<Touchscreen>/touch*/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4f006c1b-c3a6-496f-96ae-bcc1795c8008",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2794c04d-85b0-4247-9878-2c1764ec04c7",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "JumpAndMoeuh",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
